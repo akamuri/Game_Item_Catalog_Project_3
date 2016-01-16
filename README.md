@@ -1,4 +1,4 @@
-#Web Game Catalog version 1.00  01/13/2016
+#Web Game Catalog version 2.00  01/16/2016
 
 README
 ------
